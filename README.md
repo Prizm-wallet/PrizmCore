@@ -1,16 +1,16 @@
-# PrizmCore - heart of PRIZM project.
+# Prizm Wallet - safe wallet of PRIZM project.
+
+Данная версия кошелька является самой надежной и безопасной. Её приимущества:
+- Никаких ссылок. Полностью исключено попадание на незащищенные сайты, фишинговые страницы и прочие сайты, где Вы могли бы передать вашу парольную фразу третьим лицам. Адресной строки нет - вы всегда попадаете только на кошёлек.
+- Защита от передачи данных. Программное окно кошелька защищено от записи экрана, создания скриншотов и прочих методов перехвата вашей парольной фразы. 
+- Быстрый запуск и компактный размер. Приложение не требует установки и является портативным, то есть вы можете запускать его даже с флеш-карты на любом компьютере или ноутбуке.
+- Ваш пароль нигде не хранится и шифруется во время пользования приложением.
+
+## Prizm wallet download:
+
 
 ## PRIZM Whitepaper ([en](http://tech.prizm.space/wp/prizm_wp_en.pdf), [ru](http://tech.prizm.space/wp/prizm_wp_ru.pdf), [de](http://tech.prizm.space/wp/prizm_wp_de.pdf), [es](http://tech.prizm.space/wp/prizm_wp_es.pdf))
 
-## PrizmCore wallet download (v.1.9.17: [Windows](http://tech.prizm.space/files/prizm-dist-1.9.17-win.exe), [OS/X](http://tech.prizm.space/files/prizm-dist-1.9.17-osx.dmg), [Linux](http://tech.prizm.space/files/prizm-dist-1.9.17-linux.tgz))
-
-## This is [Android Application](http://tech.prizm.space/files/prizm.apk)
-
-## User friendly [Online Wallet](https://wallet.prizm.space/)
-
-## [Windows and OS X client downloads](http://94.130.167.158/loyalty/center/)
-
-## Easy API gateway [PrizmAPIServlet](http://tech.prizm.space/files/prizm-api-1.9.17.tgz)
 
 ## Blockchain explorer [BlockChain.PRIZM.SPACE](http://blockchain.prizm.space/)
 
